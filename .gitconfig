@@ -1,0 +1,11 @@
+[push]
+	default = simple
+[alias]
+	ci = commit
+	co = checkout
+	di = diff
+	st = status
+[core]
+	pager = less -r
+[diff]
+	noprefix = true
